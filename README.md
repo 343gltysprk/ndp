@@ -85,7 +85,7 @@ To run inference:
 ```bash
 python main_panoptic.py model=mask4former3d data/datasets=semantic_kitti_206 general.ckpt_path=PATH_TO_CHECKPOINT.ckpt general.mode=test
 ```
-We provide our model's weight in Huggingface.
+We provide our model's weight in Huggingface; you can download it from [this link](https://huggingface.co/343GltySprk/NDP-OOD/tree/main).
 
 To train the model, you need to first download [pretrained checkpoint](https://omnomnom.vision.rwth-aachen.de/data/stu_checkpoints/59p6pq_ens1.ckpt) from STU, then run:
 ```bash
@@ -100,3 +100,15 @@ You can train models using smaller GPUs, but you will have to adjust the batch s
 Our code base is built on https://github.com/kumuji/stu_dataset. We would also like to thank Alexey for his continuous help with our evaluation on the STU test set.
 
 ## BibTeX
+This work has been accepted by CVPR 2026. If you find it useful, please consider citing:
+```
+@misc{li2026neuraldistributionpriorlidar,
+      title={Neural Distribution Prior for LiDAR Out-of-Distribution Detection}, 
+      author={Zizhao Li and Zhengkang Xiang and Jiayang Ao and Feng Liu and Joseph West and Kourosh Khoshelham},
+      year={2026},
+      eprint={2604.09232},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.09232}, 
+}
+```
