@@ -1,10 +1,9 @@
 # Neural Distribution Prior for LiDAR Out-of-Distribution Detection
 
-This code adapts the Mask4Former codebase for 3D panoptic segmentation.
 
-For more details, please check the original Mask4Former codebase here: [Mask4Former](https://github.com/YilmazKadir/Mask4Former).
-This README is intended as an extension and completion of the original README.
+![Demo](assets/framework.png)
 
+This code adapts the Mask4Former codebase for 3D anomaly segmentation. For more details, please check the original Mask4Former codebase here: [Mask4Former](https://github.com/YilmazKadir/Mask4Former).
 
 ---
 
