@@ -1,5 +1,6 @@
 # Neural Distribution Prior for LiDAR Out-of-Distribution Detection
 
+[![arXiv](https://img.shields.io/badge/arXiv-2604.09232-b31b1b.svg)](https://arxiv.org/abs/2604.09232)
 
 ![Demo](assets/framework.png)
 
