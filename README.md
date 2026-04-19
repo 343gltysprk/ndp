@@ -2,7 +2,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2604.09232-b31b1b.svg)](https://arxiv.org/abs/2604.09232)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-This repository is the official PyTorch implementation of the CVPR2026 paper: Neural Distribution Prior for LiDAR Out-of-Distribution Detection, authored by Zizhao Li, Zhengkang Xiang, Jiayang Ao, Feng Liu, Joseph West, Kourosh Khoshelham.
+This repository is the official PyTorch implementation of the CVPR2026 paper: Neural Distribution Prior for LiDAR Out-of-Distribution Detection, authored by Zizhao Li, Zhengkang Xiang, Jiayang Ao, Feng Liu, Joseph West and Kourosh Khoshelham.
 
 ![Demo](assets/framework.png)
 
@@ -114,3 +114,6 @@ This work has been accepted by CVPR 2026. If you find it useful, please consider
       url={https://arxiv.org/abs/2604.09232}, 
 }
 ```
+## Contact
+I am open to research collaborations related to OOD detection. Please feel free to contact me at zizhao.li1@student.unimelb.edu.au.
+
