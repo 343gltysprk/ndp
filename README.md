@@ -115,5 +115,6 @@ This work has been accepted by CVPR 2026. If you find it useful, please consider
 }
 ```
 ## Contact
-I am open to research collaborations related to OOD detection. Please feel free to contact me at zizhao.li1@student.unimelb.edu.au.
+I am open to research collaborations related to OOD detection. 
+Feel free to contact me at zizhao.li1@student.unimelb.edu.au.
 
