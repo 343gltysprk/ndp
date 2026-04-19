@@ -1,6 +1,6 @@
 # Neural Distribution Prior for LiDAR Out-of-Distribution Detection
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![arXiv](https://img.shields.io/badge/arXiv-2604.09232-b31b1b.svg)](https://arxiv.org/abs/2604.09232)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 This repository is the official PyTorch implementation of the CVPR2026 paper: Neural Distribution Prior for LiDAR Out-of-Distribution Detection, authored by Zizhao Li, Zhengkang Xiang, Jiayang Ao, Feng Liu, Joseph West, Kourosh Khoshelham.
 
