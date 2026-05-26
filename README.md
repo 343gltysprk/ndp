@@ -104,14 +104,13 @@ Our code base is built on https://github.com/kumuji/stu_dataset. We would also l
 ## BibTeX
 This work has been accepted by CVPR 2026. If you find it useful, please consider citing:
 ```
-@misc{li2026neuraldistributionpriorlidar,
-      title={Neural Distribution Prior for LiDAR Out-of-Distribution Detection}, 
-      author={Zizhao Li and Zhengkang Xiang and Jiayang Ao and Feng Liu and Joseph West and Kourosh Khoshelham},
-      year={2026},
-      eprint={2604.09232},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2604.09232}, 
+@InProceedings{Li_2026_CVPR,
+    author    = {Li, Zizhao and Xiang, Zhengkang and Ao, Jiayang and Liu, Feng and West, Joseph and Khoshelham, Kourosh},
+    title     = {Neural Distribution Prior for LiDAR Out-of-Distribution Detection},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {3035-3045}
 }
 ```
 ## Contact
